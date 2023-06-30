@@ -1,4 +1,5 @@
-# Ballz
+# Ballz in Python 3.11.4. This will eventually end up in a more robust language, with actual compilable libraries given enough time.
+# It will cease to be Open Source at that point. The ML Library will never be Open Sourced.  
 import pygame
 import numpy as np
 import threading
